@@ -10,6 +10,8 @@
     * what is the private in case of smart contract wallet?
     * How unique key connected with User's Smart contract?
     * How can the signature of a transaction be verified to ensure that it belongs to a specific smart contract wallet and is signed by the real owner, if the unique key used for the signature is not directly connected to the smart contract?
+    * how contract signature promise the Authentication of smart contract owner?---> explain how to sign message hash and what are the input for signature.
+    * <![WhatsApp Image 2023-04-19 at 14 26 33](https://user-images.githubusercontent.com/82324643/233023747-44f73858-602e-4f0e-89d5-bfe379e2dbff.jpg),width="20">
     * Is the unique key stored in the user's smart contract encrypted? 
 
 3. what do you mean by Social Recovery?
